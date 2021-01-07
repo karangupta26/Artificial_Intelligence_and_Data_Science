@@ -1,1 +1,1 @@
-# TicTacToeusingMagicSquare
+# Artificial Intelligence and Data Science (ITMDAC02)
